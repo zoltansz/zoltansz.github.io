@@ -1,0 +1,173 @@
+body {
+  background-color: #e1ddd9;
+  font-size: 16px;
+  font-family: Arial, Helvetica, SunSans-Regular, Sans-Serif;
+  /* color:#564b47; */
+  color:#362b27;
+  padding:10px;
+  margin:0px;
+  text-align: left;
+  line-height: 1.2;
+}
+
+div{
+  vertical-align: middle;
+  margin: 0px auto;
+  padding: 10px;
+  width: 652px;
+  background-color: #ffffff;
+  }
+
+div.left{
+  text-align: left;
+}
+
+div.grey{
+  background-color: #efefef;
+}
+
+div.right{
+  text-align: right;
+}
+
+div.year{
+  font-weight: bold;
+
+}
+
+div.center{
+  text-align: center;
+}
+
+div.menu{
+  font-size: 21px;
+}
+
+p.name{
+  font-size: 18px;
+}
+
+div.news{
+  padding: 0px 10px 1px 10px;
+  }
+
+div.newsv{
+    padding: 0px 10px 23px 10px;
+  }
+
+small {
+  font-size: 10px;
+}
+
+p.def {
+    color: #001a4d;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+a:link {
+  /* color: rgb(0,0,238); */
+  color: #004d1a;
+  }
+
+a:visited {
+  /* color: rgb(85,26,139); */
+  color: #004d1a;
+  }
+
+a {
+   text-decoration: none;
+}
+
+a:hover {
+   /* text-decoration: underline; */
+   border-bottom: 1px gray dotted;
+}
+
+hr {
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   border: 0 none;
+   height: 1px;
+   /* Set the hr color, very light like #eee */
+   color: #eee; /* old IE */
+   background-color: #eee; /* Modern Browsers */
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+caption {
+    font-size: larger;
+}
+
+th {
+    text-align: left;
+    padding: 4px;
+}
+
+td:nth-child(1) {
+    text-align: right;
+    padding: 4px;
+    vertical-align: top;
+}
+
+td:nth-child(2) {
+    text-align: left;
+    padding: 4px;
+}
+
+tr:nth-child(odd) {
+    background-color: #efefef;
+}
+
+table#logo td:nth-child(1) {
+    text-align: left;
+    vertical-align: top;
+    padding: 0px;
+    background-color: #ffffff;
+}
+
+table#logo td:nth-child(2) {
+    text-align: right;
+    vertical-align: center;
+    padding: 0px;
+    background-color: #ffffff;
+}
+
+table#jc2019 td {
+    text-align: left;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+table#jc2019 tr:nth-child(odd) {
+    background-color: #efefef;
+}
+
+table#jc2018 td {
+    text-align: left;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+table#jc2018 tr:nth-child(odd) {
+    background-color: #efefef;
+}
+
+table#jc2017 td {
+    text-align: left;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+table#jc2017 tr:nth-child(odd) {
+    background-color: #efefef;
+}
+
+u { text-decoration:none; }

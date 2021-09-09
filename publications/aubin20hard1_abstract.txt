@@ -1,0 +1,10 @@
+Authors: 
+Pierre-Cyril Aubin-Frankowski, Zoltan Szabo
+
+Title:
+Hard Shape-Constrained Kernel Regression
+
+Abstract: 
+Shape-constrained regression problems, such as requiring a function to be positive/monotone/convex over an interval, allow to account for physical constraints. Leveraging prior knowledge expressed in terms of shape structures has several advantages but the nondiscrete set, over which the constraints have to hold, makes the estimation challenging. For problems where the hypothesis space is a reproducing kernel Hilbert space, we show how second-order cone programming techniques can be applied to solve a strengthened version satisfying the imposed shape-constraints. We prove also performance guarantees and apply the method to joint quantile regression.
+
+

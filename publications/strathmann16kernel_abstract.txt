@@ -1,0 +1,5 @@
+Title: Kernel techniques for adaptive Monte Carlo methods
+
+Abstract:
+We introduce a general kernel-informed Monte Carlo algorithm family for fast sampling from Bayesian posterior distributions. Our focus is on the highly challenging Big Models regime, where posteriors often exhibit strong nonlinear correlations and the evaluation of the target density (and its gradient) is either analytically intractable or computationally expensive. To construct efficient sampling schemes in these cases, application of adaptive MCMC methods learning the target geometry becomes critical. We present how kernel methods can be embedded into the adaptive MCMC paradigm enabling to construct rich classes of proposals with attractive convergence and mixing properties. Our ideas are exemplified for three popular sampling techniques: Metropolis-Hastings, Hamiltonian Monte Carlo and Sequential Monte Carlo.
+
