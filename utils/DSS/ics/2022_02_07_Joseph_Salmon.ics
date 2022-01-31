@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/London
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZNAME:BST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:GMT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220125T113141Z
+UID:1643110129833-68251@ical.marudot.com
+DTSTART;TZID=Europe/London:20220207T140000
+DTEND;TZID=Europe/London:20220207T150000
+SUMMARY:Data Science Seminar: Joseph Salmon
+DESCRIPTION:Speaker: Joseph Salmon (http://www.josephsalmon.eu/)\n\nTitle: Implicit differentiation for fast hyperparameter selection in non-smooth convex learning\n\nAbstract: Finding the optimal hyperparameters of a model can be cast as a bilevel optimization problem\, typically solved using zero-order techniques. We study here first-order methods when the inner optimization problem is convex but non-smooth. We show that the forward-mode differentiation of proximal gradient descent and proximal coordinate descent yield sequences of Jacobians converging toward the exact Jacobian. Using implicit differentiation\, we show it is possible to leverage the non-smoothness of the inner problem to speed up the computation. Finally\, we provide a bound on the error made on the hypergradient when the inner optimization problem is solved approximately. Results on regression and classification problems reveal computational benefits for hyperparameter optimization\, especially when multiple hyperparameters are required.\nJoint work with Q. Bertrand\, Q. Klopfenstein\, M. Massias\, M. Blondel\, S. Vaiter and A. Gramfort\nhttps://arxiv.org/abs/2105.01637\nhttps://arxiv.org/abs/2002.08943\n\nBio: Joseph Salmon is a full professor at Université de Montpellier. Prior to joining Université de Montpellier in 2018\, he was a visiting assistant professor at University of Washington (2018) and an assistant professor at Télécom ParisTech (2012 - 2018).\nHe is specialized in high dimensional statistics\, optimization and statistical machine learning. His research interests include convex optimization\, sparse regression models and inverse problems from imaging science. Recent contributions include speeding-up standard Lasso solvers and leveraging the noise structure to improve signal estimation. As an associate member with the INRIA Parietal Team\, he is also contributing to apply his work to brain imaging challenges.\n\nZoom registration: https://lse.zoom.us/meeting/register/tZwpdO2gpz4pGdJz5or8bzz_qmZBrjZW1txc
+END:VEVENT
+END:VCALENDAR
