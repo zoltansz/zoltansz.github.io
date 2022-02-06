@@ -3,7 +3,7 @@
 
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-  <updated>2022-02-06T22:10:00Z</updated>
+  <updated>2022-02-06T22:46:00Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
@@ -14,7 +14,7 @@
       <title>Mar. 7: Dino Sejdinovic, 2pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
       <id>2022-03-07-Dino-Sejdinovic-DSS</id>
-      <updated>2022-02-06T22:16:00Z</updated>
+      <updated>2022-02-06T22:45:00Z</updated>
       <summary>TBA.</summary>
   </entry>
 
@@ -22,7 +22,7 @@
       <title>Feb. 21: Silvia Villa, 2pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
       <id>2022-02-21-Silvia-Villa-DSS</id>
-      <updated>2022-02-06T22:22:00Z</updated>
+      <updated>2022-02-06T22:44:00Z</updated>
       <summary>TBA.</summary>
   </entry>
 
@@ -30,15 +30,15 @@
       <title>Feb. 14: Volkan Cevher, 2pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
       <id>2022-02-14-Volkan-Cevher-DSS</id>
-      <updated>2022-02-06T22:23:00Z</updated>
+      <updated>2022-02-06T22:43:00Z</updated>
       <summary>Optimization challenges in adversarial machine learning.</summary>
   </entry>
 
   <entry>
-      <title>Feb 7: Joseph Salmon, 2pm- (UK time)</title>
+      <title>Feb. 7: Joseph Salmon, 2pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
       <id>2022-02-07-Joseph-Salmon-DSS</id>
-      <updated>2022-02-06T22:25:00Z</updated>
+      <updated>2022-02-06T22:42:00Z</updated>
       <summary>Implicit differentiation for fast hyperparameter selection in non-smooth convex learning.</summary>
   </entry>
 
