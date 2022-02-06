@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<atom:link href="https://zoltansz.github.io/utils/DSS/DSS_test.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://zoltansz.github.io/utils/DSS/DSS_RSS.xml" rel="self" type="application/rss+xml" />
 <title>Data Science Seminars (LSE)</title>
 <link>https://zoltansz.github.io/utils/external_seminar_LSE.html</link>
 <description>Data Science Seminars, Department of Statistics, LSE</description>
+<lastBuildDate>Sun, 6 Feb 2022 18:51:00 GMT </lastBuildDate>
 <item>
 <title>Mar. 7: Dino Sejdinovic, 2pm-</title>
 <link>https://zoltansz.github.io/utils/external_seminar_LSE.html</link>
