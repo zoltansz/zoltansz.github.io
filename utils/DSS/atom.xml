@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Data Science Seminars (LSE)</title>
-  <link rel="self" href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
+  <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
   <updated>2022-02-06T22:46:00Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
   </author>
-  <id>https://zoltansz.github.io/utils/external_seminar_LSE.html</id>
+  <id>https://zoltansz.github.io/utils/0</id>
 
   <entry>
       <title>Mar. 7: Dino Sejdinovic, 2pm- (UK time)</title>
