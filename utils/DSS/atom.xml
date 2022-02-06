@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self" type="application/rss+xml" />
 
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
