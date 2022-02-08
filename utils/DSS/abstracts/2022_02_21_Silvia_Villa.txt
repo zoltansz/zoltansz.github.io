@@ -1,0 +1,7 @@
+- Speaker: Silvia Villa (https://www.dima.unige.it/~villa/)
+
+- Title: Iterative regularization for low complexity regularizers
+
+- Abstract: Iterative regularization exploits the implicit bias of an optimization algorithm to regularize ill-posed problems. Constructing algorithms with such built-in regularization mechanisms is a challenge of modern inverse problems and machine learning, providing both a new perspective on algorithms analysis and significant speed-ups compared to explicit regularization. I will present different iterative regularization methods, depending on the desired regularization and analyze their convergence and stability properties.
+
+- Short bio: Silvia Villa is an associate professor at the University of Genova, where she works in the Machine Learning Genoa Center. Her research is focused on optimization, and in particular on algorithms for solving machine learning and inverse problems. She is the coordinator of an MSCA ITN European Project on optimization for data science involving 15 PhD students.
