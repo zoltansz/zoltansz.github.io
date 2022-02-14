@@ -4,7 +4,7 @@
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self"/>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-  <updated>2022-02-08T14:43:00Z</updated>
+  <updated>2022-02-14T23:31:00Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
@@ -25,14 +25,6 @@
       <id>https://zoltansz.github.io/utils/3</id>
       <updated>2022-02-08T14:16:00Z</updated>
       <summary>Iterative regularization for low complexity regularizers.</summary>
-  </entry>
-
-  <entry>
-      <title>Feb. 14: Volkan Cevher, 2pm- (UK time)</title>
-      <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-      <id>https://zoltansz.github.io/utils/2</id>
-      <updated>2022-02-06T22:43:00Z</updated>
-      <summary>Optimization challenges in adversarial machine learning.</summary>
   </entry>
 
 </feed>
