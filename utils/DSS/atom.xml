@@ -4,7 +4,7 @@
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self"/>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-  <updated>2022-03-31T14:22:00Z</updated>
+  <updated>2022-04-06T22:38:00Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
@@ -40,6 +40,14 @@
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
       <id>https://zoltansz.github.io/utils/6</id>
       <updated>2022-03-31T14:22:00Z</updated>
+      <summary>TBA.</summary>
+  </entry>
+
+  <entry>
+      <title>May 16: Krishnakumar Balasubramanian, 4pm- (UK time)</title>
+      <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
+      <id>https://zoltansz.github.io/utils/9</id>
+      <updated>2022-04-06T22:38:00Z</updated>
       <summary>TBA.</summary>
   </entry>
 
