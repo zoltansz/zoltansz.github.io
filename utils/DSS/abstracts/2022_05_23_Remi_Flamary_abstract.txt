@@ -1,0 +1,14 @@
+Speaker: Rémi Flamary (https://remi.flamary.com/)
+
+Title: Modeling Graphs with Optimal Transport
+
+Abstract:
+Optimal Transport (OT) has recently emerged as a powerful and interpretable tool to model and measure similarity between graph
+objects. In this talk we will introduce the Gromov-Wasserstein divergence and several extensions that have been proposed recently to
+measure a similarity between weighted graphs. We will discuss two important aspects of OT on graphs: as a divergence between
+non-registered graphs with potentially different number of nodes and as a transport finding optimal correspondences between those graph nodes. We will then present several applications of those divergences for dictionary learning of graphs, community clustering and graph completion.
+
+Bio:
+Remi Flamary is Monge Assistant Professor at École Polytechnique in the Centre de Mathématiques Appliquées (CMAP) and holder of a Chair in Artificial Intelligence from 3IA Côte d'Azur. He was previously Associate Professor at Université Cote d’Azur (UCA) and a member of
+Lagrange Laboratory, Observatoire de la Cote d’Azur. He received the Dipl.-Ing. in electrical engineering and the M.S. degree in image
+processing from the Institut National de Sciences Appliquees de Lyon in 2008, and a Ph.D. degree from the University of Rouen in 2011. His current research interests include signal and image processing, and machine learning with a recent focus on application of Optimal Transport theory to machine learning problems.
