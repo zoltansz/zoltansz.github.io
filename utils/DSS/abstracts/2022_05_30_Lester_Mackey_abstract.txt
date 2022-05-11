@@ -1,0 +1,14 @@
+Speaker: Lester Mackey (https://web.stanford.edu/~lmackey/)
+
+Title: Kernel Thinning and Stein Thinning
+
+Abstract:
+This talk will introduce two new tools for summarizing a probability distribution more effectively than independent sampling or standard Markov chain Monte Carlo thinning:
+
+1. Given an initial n point summary (for example, from independent sampling or a Markov chain), kernel thinning finds a subset of only square-root n points with comparable worst-case integration error across a reproducing kernel Hilbert space.
+2. If the initial summary suffers from biases due to off-target sampling, tempering, or burn-in, Stein thinning simultaneously compresses the summary and improves the accuracy by correcting for these biases.
+
+These tools are especially well-suited for tasks that incur substantial downstream computation costs per summary point like organ and tissue modeling in which each simulation consumes 1000s of CPU hours.
+
+Bio:
+Lester Mackey is a Principal Researcher at Microsoft Research, where he develops machine learning methods, models, and theory for large-scale learning tasks driven by applications from climate forecasting, healthcare, and the social good. Lester moved to Microsoft from Stanford University, where he was an assistant professor of Statistics and (by courtesy) of Computer Science. He earned his PhD in Computer Science and MA in Statistics from UC Berkeley and his BSE in Computer Science from Princeton University. He co-organized the second place team in the Netflix Prize competition for collaborative filtering, won the Prize4Life ALS disease progression prediction challenge, won prizes for temperature and precipitation forecasting in the yearlong real-time Subseasonal Climate Forecast Rodeo, received best paper and best student paper awards from the ACM Conference on Programming Language Design and Implementation and the International Conference on Machine Learning, and was elected to the COPSS Leadership Academy.
