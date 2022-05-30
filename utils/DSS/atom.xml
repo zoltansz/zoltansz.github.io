@@ -4,7 +4,7 @@
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self"/>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-  <updated>2022-05-23T21:01:00Z</updated>
+  <updated>2022-05-30T17:56:00Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
@@ -23,16 +23,8 @@
       <title>June 13: Florence d'Alché-Buc, 2pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
       <id>https://zoltansz.github.io/utils/5</id>
-      <updated>2022-03-06T19:36:00Z</updated>
-      <summary>TBA.</summary>
-  </entry>
-
-  <entry>
-      <title>May 30: Lester Mackey, 2pm- (UK time)</title>
-      <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-      <id>https://zoltansz.github.io/utils/7</id>
-      <updated>2022-05-10T20:56:00Z</updated>
-      <summary>Kernel Thinning and Stein Thinning.</summary>
+      <updated>2022-05-30T17:56:00Z</updated>
+      <summary>Learning to predict complex outputs: a kernel view.</summary>
   </entry>
 
 </feed>
