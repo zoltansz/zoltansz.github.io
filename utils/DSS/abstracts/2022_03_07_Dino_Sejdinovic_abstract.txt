@@ -1,0 +1,11 @@
+Speaker: Dino Sejdinovic (https://www.stats.ox.ac.uk/~sejdinov/)
+
+Title: Recent Developments at the Interface Between Kernel Embeddings and Gaussian Processes
+
+Abstract: Reproducing kernel Hilbert spaces (RKHS) provide a powerful framework, termed kernel mean embeddings, for representing probability distributions, enabling nonparametric statistical inference in a variety of applications. I will give an overview of this framework and present some of its recent developments which combine RKHS formalism with Gaussian process modelling. Some recent applications include causal data fusion, where data of different quality needs to be combined in order to estimate the average treatment effect, as well as statistical downscaling using potentially unmatched multi-resolution data.
+
+References:
+S. L. Chau, S. Bouabid, and D. Sejdinovic, Deconditional Downscaling with Gaussian Processes, in Advances in Neural Information Processing Systems (NeurIPS), 2021, forthcoming. https://arxiv.org/pdf/2105.12909.pdf
+S. L. Chau, J.-F. Ton, J. Gonzalez, Y. W. Teh, and D. Sejdinovic, BayesIMP: Uncertainty Quantification for Causal Data Fusion, in Advances in Neural Information Processing Systems (NeurIPS), 2021, forthcoming. https://arxiv.org/pdf/2106.03477.pdf
+
+Short bio: Dino Sejdinovic is an Associate Professor at the Department of Statistics, University of Oxford, and a Fellow of Mansfield College, Oxford. He conducts research at the interface between machine learning and statistical methodology. He previously held postdoctoral positions at the Gatsby Computational Neuroscience Unit, University College London (2011-2014) and at the Institute for Statistical Science, University of Bristol (2009-2011). He received a PhD in Electrical and Electronic Engineering from the University of Bristol (2009) and a Diplom in Mathematics and Theoretical Computer Science from the University of Sarajevo (2006).

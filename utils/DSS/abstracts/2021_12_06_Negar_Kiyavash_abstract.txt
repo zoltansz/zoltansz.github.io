@@ -1,0 +1,11 @@
+Speaker: Negar Kiyavash (https://sites.google.com/site/negarkiyavash/)
+
+Title: Database alignment: fundamental limits and efficient algorithms
+
+Abstract:
+As data collection becomes ubiquitous, understanding the potential benefits as well as the risks posed by the availability of such large amount of data becomes more pressing. Identifying how data from different sources relate to each other, could allow to merge and augment data. On the positive side, this could help for instance in deducting functionality of proteins by comparing protein interaction networks of different species. On the negative side, such alignment could cause unintended exposure of confidential information. A famous case of such breach occurred when customer data from the anonymous Netflix Prize database was revealed through alignment with public IMDB profiles.
+
+In this talk we present information-theoretic results on database alignment, showing how the size of databases and the correlation between their elements determines the success of alignment. Database alignment is closely related to equally interesting problem of network alignment, a generalization of the graph isomorphism problem.
+
+Bio:
+Negar Kiyavash is the chair of Business Analytics (BAN) at École polytechnique fédérale de Lausanne (EPFL) at the College of Management of Technology. Prior to joining EPFL, she was a faculty member at the University of Illinois, Urbana-Champaign, and at Georgia Institute of Technology. Her research interests are broadly in the area of statistical learning and applied probability with special focus on network inference and causality. She is a recipient of the NSF CAREER and AFOSR YIP awards.

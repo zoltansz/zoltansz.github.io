@@ -1,0 +1,21 @@
+Speaker: Cynthia Rudin (https://users.cs.duke.edu/~cynthia/home.html)
+
+Title: Scoring Systems: At the Extreme of Interpretable Machine Learning
+
+Abstract:
+With widespread use of machine learning, there have been serious societal consequences from using black box models for high-stakes decisions, including flawed bail and parole decisions in criminal justice, flawed models in healthcare, and black box loan decisions in finance. Interpretability of machine learning models is critical in high stakes decisions.
+
+In this talk, I will focus on one of the most fundamental and important problems in the field of interpretable machine learning: optimal scoring systems. Scoring systems are sparse linear models with integer coefficients. Such models first started to be used ~100 years ago. Generally, such models are created without data, or are constructed by manual feature selection and rounding logistic regression coefficients, but these manual techniques sacrifice performance; humans are not naturally adept at high-dimensional optimization. I will present the first practical algorithm for building optimal scoring systems from data. This method has been used for several important applications to healthcare and criminal justice.
+
+I will mainly discuss work from three papers:
+
+Learning Optimized Risk Scores. Journal of Machine Learning Research, 2019.
+http://jmlr.org/papers/v20/18-615.html
+
+The Age of Secrecy and Unfairness in Recidivism Prediction. Harvard Data Science Review, 2020.
+https://hdsr.mitpress.mit.edu/pub/7z10o269
+
+Association of an Electroencephalography-Based Risk Score With Seizure Probability in Hospitalized Patients. JAMA Neurology, 2017.
+https://jamanetwork.com/journals/jamaneurology/fullarticle/2656833?utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m
+
+Bio: Cynthia Rudin is a professor of computer science, electrical and computer engineering, statistical science, mathematics, and biostatistics & bioinformatics at Duke University. She directs the Interpretable Machine Learning Lab, whose goal is to design predictive models with reasoning processes that are understandable to humans. Her lab applies machine learning in many areas, such as healthcare, criminal justice, and energy reliability. She holds an undergraduate degree from the University at Buffalo, and a PhD from Princeton University. She is the recipient of the 2022 Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity from the Association for the Advancement of Artificial Intelligence (the “Nobel Prize of AI”). She is a fellow of the American Statistical Association and a fellow of the Institute of Mathematical Statistics. Her work has been featured in many news outlets including the NY Times, Washington Post, Wall Street Journal, and Boston Globe.

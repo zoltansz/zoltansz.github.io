@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+			<meta name="author" content="Zoltan Szabo" />
+			<meta name="description" content="Zoltán Szabó's Home Page (Department of Statistics, LSE)" />
+			<meta name="keywords" content="information theory, kernel methods, statistical machine learning, scalable computation,
+			randomized algorithms, shape-constrained prediction, hypothesis testing, safety-critical learning, style transfer,
+			distribution regression, dictionary learning, structured sparsity, independent subspace analysis, bioinformatics,
+			Bayesian inference, computer vision, finance, economics, analysis of climate data, criminal data analysis, collaborative filtering,
+			emotion recognition, face tracking, remote sensing, natural language processing, gene analysis" />
+			<meta charset="UTF-8">
+	   	<title> Zoltán Szabó's Home Page </title>
+   	   <style>
+   	    		@import url("css/style.css");
+    		</style>
+	</head>
+	<body>
+			   <div class="center menu">
+	  	 			<nav>
+   	    			<a href="../index.html">Home</a> -
+  	   	 			<a href="../publications.html">Publications</a> -
+     	 				<a href="../service.html">Service</a> -
+     	 				<a href="../talks.html">Talks</a> -
+							<a href="../software.html">Software</a> -
+              <a href="../teaching.html">Teaching</a>
+   				</nav>
+  				</div>
+
+			  	<div class="left">
+					<p class="name"> <b>Teaching</b>: 2016, Fall (École Polytechnique):
+		      </div>
+
+				<div class="left">
+					Functional Data Analysis (MAP579):
+					<ul>
+						 <li>Goal:
+							 <ul>
+									 <li> The goal of the course is to enrich the participants with practical tools to be able to process and analyse data of functional nature, typically arising in climate research
+										 (for example, temperature curves, wind speed, and other time-series data). During the semester we will learn how to denoise functions (smoothing), align sample curves
+										 (time warping; shift registration, landmark registration, continuous registration), discover dominant patterns present in the data (dimensionality reduction), represent unequally spaced observations (functional representation), and visualize the obtained results. The course will also provide the possibility to work on hourly, atmospheric observations provided by
+										 the <a href="http://sirta.ipsl.fr/reobs.html">SIRTA-ReOBS</a> project. The methods will be implemented in Matlab.  </li>
+									 <li> What you will learn: denoise experimental data, find recurrent patterns within the data, work with time series, and see applications of machine learning to process experimental data. </li>
+							 </ul>
+						 </li>
+
+						  <li>Prerequisites:
+									<ul>
+										<li> The course requires a basic knowledge of probability theory (random variable, density function, mean, variance) at the level of 'A First Course in Probability by Sheldon Ross', calculus (function, derivative, integrals) at the level of 'Calculus by James Stewart', linear algebra (vector, matrix) at the level of 'Introduction to Linear Algebra by Serge Lang'. </li>
+									</ul>
+							</li>
+						</ul>
+							<hr>
+						<ul>
+					    <li>Lecture 1 (Oct. 4):
+  					    		<ul>
+ 	    				 					<li> Keywords: smoothing by least squares, basis function  technique, linear smoother, localized least squares (kernel smoothing), Nadaraya-Watson estimator, Gasser-Müller estimator, localized basis function estimator, local polynomial smoothing. </li>
+ 	    				 					<li> Slides: <a href="../teaching/X/FDA/2016-2017_I/lecture1/lecture1.pdf">maths</a>, <a href="../teaching/X/FDA/2016-2017_I/lecture1/lecture1_Matlab.pdf">quick summary of Matlab</a>. </li>
+												<li> Data: <a href="../teaching/X/FDA/2016-2017_I/lecture1/20160701_weather_data.zip">weather data</a>. </li>
+												<li> Covered: Chapter 1-4 of [1].</li>
+                 		</ul>
+              </li>
+							<li>Lecture 2 (Oct. 11):
+  					    		<ul>
+ 	    				 					<li> Keywords (maths): smoothing with roughness penalty (regularization approach), harmonic acceleration operator, spline smoothing, B-spline basis, degree of freedom, quadrature rules (trapezoid rule, Simpson's rule), (generalized) cross-validation, bi-resolution analysis. </li>
+                        <li> Keywords (FDA toolbox): basis object, create/evaluate/plot basis systems. </li>
+ 	    				 					<li> Slides: <a href="../teaching/X/FDA/2016-2017_I/lecture2/lecture2.pdf">maths</a>, <a href="../teaching/X/FDA/2016-2017_I/lecture2/lecture2_Matlab.pdf">FDA package: basics</a>. </li>
+												<li> Covered: Chapter 5 of [1], Chapter 1-3 of [2].</li>
+                 		</ul>
+              </li>
+							<li>Lecture 3 (Oct. 18):
+  					    		<ul>
+ 	    				 					<li> Keywords (maths): smoothing with constraints (positivity, monotonicity, probability density function), maximum-likelihood estimation, curve registration, amplitude/phase variability, shift registration, Procrustes method, feature or landmark registration, time-warping function, continuous registration, modified Newton-Raphson method. </li>
+                        <li> Keywords (FDA toolbox): fd, fdnames, Lfd, fdPar objects. </li>
+ 	    				 					<li> Slides: <a href="../teaching/X/FDA/2016-2017_I/lecture3/lecture3.pdf">maths</a>, <a href="../teaching/X/FDA/2016-2017_I/lecture3/lecture3_Matlab.pdf">FDA package: smoothing</a>. </li>
+												<li> Covered: Chapter 6-7 of [1], Chapter 4-5 of [2].</li>
+                 		</ul>
+              </li>
+							<li>Lecture 4 (Nov. 8):
+  					    		<ul>
+ 	    				 					<li> Keywords: dimensionality reduction, principal component analysis (Karhunen-Loeve transformation, Hoteling transformation), constrained optimization (Lagrange multipliers). </li>
+ 	    				 					<li> Slides: <a href="../teaching/X/FDA/2016-2017_I/lecture4/lecture4.pdf">maths</a>, <a href="../teaching/X/FDA/2016-2017_I/lecture4/lecture4_Matlab.pdf">PCA tasks</a>. </li>
+												<li> Covered: 'R<sup>d</sup> part' of Chapter 8 in [1], and [3].</li>
+                 		</ul>
+              </li>
+							<li>Lecture 5 (Nov. 15):
+  					    		<ul>
+ 	    				 					<li> Keywords:  functional PCA, covariance operator, (generalized) eigenvalue problems. </li>
+ 	    				 					<li> Slides: <a href="../teaching/X/FDA/2016-2017_I/lecture5/lecture5.pdf">maths</a>, <a href="../teaching/X/FDA/2016-2017_I/lecture5/lecture5_Matlab.pdf">FDA package: curve registration</a>. </li>
+ 	    				 					<li> Code: <a href="../teaching/X/FDA/2016-2017_I/lecture5/smooth_monotone.m">patched smooth_monotone.m</a>, <a href="../teaching/X/FDA/2016-2017_I/lecture5/growth_LM_and_CR_by_ZSz.m">registration (growth)</a>. </li>
+												<li> Covered: 'functional part' of Chapter 8 in [1].</li>
+                 		</ul>
+              </li>
+							<li>Lecture 6 (Nov. 22):
+  					    		<ul>
+ 	    				 					<li> Keywords:  regularized functional PCA. </li>
+ 	    				 					<li> Slides: <a href="../teaching/X/FDA/2016-2017_I/lecture6/lecture6.pdf">maths + Matlab</a>. </li>
+ 	    				 					<li> Code: <a href="../teaching/X/FDA/2016-2017_I/lecture6/image_compression_using_PCA.zip"> image compression demo (PCA)</a>, <a href="../teaching/X/FDA/2016-2017_I/lecture6/SIRTA_public_meteoairsol.zip">SIRTA public data</a>. </li>
+												<li> Covered: Chapter 9 in [1], 'functional PCA part' of Chapter 7 in [2].</li>
+                 		</ul>
+              </li>
+							<li>Lecture 7 (Dec. 13):
+  					    		<ul>
+ 	    				 					<li> Keywords:  inner product space, norm, Hilbert space, CBS inequality, kernel, reproducing property, RKHS, kernel ridge regression, representer theorem, covariance operator, kernel PCA. </li>
+ 	    				 					<li> <a href="../teaching/X/FDA/2016-2017_I/lecture7/lecture7.pdf">Slides</a>. </li>
+												<li> References: [4-6].</li>
+                 		</ul>
+              </li>
+
+							<li>References:
+  					    		<ul>
+ 	    				 					<li> [1] J.O. Ramsay, B.W. Silverman. Functional Data Analysis. Springer, 2005. [<a href="http://www.springer.com/fr/book/9780387400808">link</a>] </li>
+ 	    				 					<li> [2] J.O. Ramsay, Giles Hooker, Spencer Graves. Functional Data Analysis with R and Matlab. Springer, 2009. [<a href="http://www.springer.com/gp/book/9780387981840">link</a>] </li>
+												<li> [3] Cosma Shalizi. Notes on 'Principal Components Analysis', 2016. [<a href="https://www.stat.cmu.edu/~cshalizi/uADA/16/lectures/17.pdf">link</a>] </li>
+												<li> [4] Bernhard Schölkopf, Alex Smola, Klaus-Robert Müller. Kernel Principal Component Analysis, pages 583-588, ICANN-1997. </li>
+												<li> [5] Sebastian Mika, Bernhard Schölkopf, Alex Smola, Klaus-Robert Müller, Matthias Scholz, Gunnar Rätsch. Kernel PCA and De-Noising in Feature Spaces, pages 536-542, NIPS-2009. </li>
+												<li> [6] Ingo Steinwart, Andreas Christmann. <a href="http://www.springer.com/fr/book/9780387772417">Support Vector Machines</a>, 2008. </li>
+                 		</ul>
+              </li>
+							<li> Code/dataset (external):
+								<ul>
+										<li> <a href="http://www.psych.mcgill.ca/misc/fda/downloads/FDAfuns/Matlab/fdaM.zip">FDA toolbox</a>, </li>
+										<li> <a href="https://research.ics.aalto.fi/ica/fastica/">fastICA (specifically PCA)</a>, <a href="https://research.ics.aalto.fi/ica/imageica/">natural image dataset</a>.  </li>
+								</ul>
+
+							</li>
+  	  				</ul>
+  				</div>
+
+	</body>
+</html>

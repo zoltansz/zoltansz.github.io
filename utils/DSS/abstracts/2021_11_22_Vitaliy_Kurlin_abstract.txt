@@ -1,0 +1,13 @@
+Speaker: Vitaliy Kurlin (http://kurlin.org/)
+
+Title: Mathematical Data Science for solid crystalline materials
+
+Abstract: Most real data is ambiguous in the sense that the same real object has too many (often infinitely many) data representations. For
+example, any periodic lattice can be represented by infinitely many different linear bases. Data Science aims to define equivalence
+relations on real objects to make their classifications meaningful. The most natural equivalence of solid crystalline materials is rigid
+motion or isometry, because periodic crystal structures are determined in a rigid form. This talk will describe recent advances in isometry
+classifications of finite and periodic point sets. The implemented isometry invariants completely distinguished all (hundreds of
+thousands) real periodic crystals in the world's largest Cambridge Structural Database. The work is joint with colleagues from the Data
+Science Theory and Applications group, http://kurlin.org/index.php#group
+
+Bio: Vitaliy Kurlin is a Data Scientist at the Materials Innovation Factory at Liverpool and the Royal Academy Engineering Fellow at the Cambridge Crystallographic Data Centre, who leads the group developing the new area of Periodic Geometry for applications in crystallography and materials science.

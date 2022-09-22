@@ -1,0 +1,14 @@
+Speaker: Volkan Cevher (https://lions.epfl.ch), @CevherLIONS
+
+Title:
+Optimization challenges in adversarial machine learning
+
+Abstract:
+Thanks to neural networks (NNs), faster computation, and massive datasets, machine learning (ML) is under increasing pressure to provide automated solutions to even harder real-world tasks beyond human performance with ever faster response times due to potentially huge technological and societal benefits. Unsurprisingly, the NN learning formulations present a fundamental challenge to the back-end learning algorithms despite their scalability, in particular due to the existence of traps in the non-convex optimization landscape, such as saddle points, that can prevent algorithms from obtaining “good” solutions.
+
+In this talk, we describe our recent research that has demonstrated that the non-convex optimization dogma is false by showing that scalable stochastic optimization algorithms can avoid traps and rapidly obtain locally optimal solutions. Coupled with the progress in representation learning, such as over-parameterized neural networks, such local solutions can be globally optimal.
+
+Unfortunately, this talk will also demonstrate that the central min-max optimization problems in ML, such as generative adversarial networks (GANs), robust reinforcement learning (RL), and distributionally robust ML, contain spurious attractors that do not include any stationary points of the original learning formulation. Indeed, we will describe how algorithms are subject to a grander challenge, including unavoidable convergence failures, which could explain the stagnation in their progress despite the impressive earlier demonstrations. We will conclude with promising new preliminary results from our recent progress on some of these difficult challenges.
+
+Bio:
+Volkan Cevher received the B.Sc. (valedictorian) in electrical engineering from Bilkent University in Ankara, Turkey, in 1999 and the Ph.D. in electrical and computer engineering from the Georgia Institute of Technology in Atlanta, GA in 2005. He was a Research Scientist with the University of Maryland, College Park from 2006-2007 and also with Rice University in Houston, TX, from 2008-2009. Currently, he is an Associate Professor at the Swiss Federal Institute of Technology Lausanne and a Faculty Fellow in the Electrical and Computer Engineering Department at Rice University. His research interests include machine learning, signal processing theory, optimization theory and methods, and information theory. Dr. Cevher is an ELLIS fellow and was the recipient of the Google Faculty Research award in 2018, the IEEE Signal Processing Society Best Paper Award in 2016, a Best Paper Award at CAMSAP in 2015, a Best Paper Award at SPARS in 2009, and an ERC CG in 2016 as well as an ERC StG in 2011.

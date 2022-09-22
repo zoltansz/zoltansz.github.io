@@ -1,0 +1,12 @@
+Speaker: Po-Ling Loh (https://www.dpmms.cam.ac.uk/~pll28/)
+
+Title: A modern take on Huber regression
+
+Abstract: In the first part of the talk, we discuss the use of a penalized Huber M-estimator for high-dimensional linear regression. We explain how a fairly straightforward analysis yields high-probability error bounds that hold even when the additive errors are heavy-tailed. However, the parameter governing the shape of the Huber loss must be chosen in relation to the scale of the error distribution. We discuss how to use an adaptive technique, based on Lepski's method, to overcome the difficulties traditionally faced by applying Huber M-estimation in a context where both location and scale are unknown.
+
+In the second part of the talk, we turn to a more complicated setting where both the covariates and responses may be heavy-tailed and/or adversarially contaminated. We show how to modify the Huber regression estimator by first applying an appropriate "filtering" procedure to the data based on the covariates. We prove that in low-dimensional settings, this filtered Huber regression estimator achieves near-optimal error rates. We further show that the commonly used least trimmed squares and least absolute deviation estimators may similarly be made robust to contaminated covariates via the same covariate filtering step. This is based on joint work with Ankit Pensia (UW-Madison) and Varun Jog (Cambridge).
+
+Bio:
+I grew up in  Madison, Wisconsin. After graduating from the California Institute of Technology with a BS in math and minor in English, I moved to UC Berkeley, where I subsequently earned an MS in computer science and PhD in statistics.
+
+From 2014--2016, I was an assistant professor in the Department of Statistics at the Wharton School of the University of Pennsylvania. From 2016-2020, I was an assistant and then associate professor in the Department of Electrical and Computer Engineering and the Department of Statistics at the University of Wisconsin-Madison. I was a visiting associate professor in the Department of Statistics at Columbia University from 2019-2020. In 2021, I began my appointment at the University of Cambridge.

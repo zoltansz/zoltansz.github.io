@@ -1,0 +1,11 @@
+Speaker: Joseph Salmon (http://www.josephsalmon.eu/)
+
+Title: Implicit differentiation for fast hyperparameter selection in non-smooth convex learning
+
+Abstract: Finding the optimal hyperparameters of a model can be cast as a bilevel optimization problem, typically solved using zero-order techniques. We study here first-order methods when the inner optimization problem is convex but non-smooth. We show that the forward-mode differentiation of proximal gradient descent and proximal coordinate descent yield sequences of Jacobians converging toward the exact Jacobian. Using implicit differentiation, we show it is possible to leverage the non-smoothness of the inner problem to speed up the computation. Finally, we provide a bound on the error made on the hypergradient when the inner optimization problem is solved approximately. Results on regression and classification problems reveal computational benefits for hyperparameter optimization, especially when multiple hyperparameters are required.
+Joint work with Q. Bertrand, Q. Klopfenstein, M. Massias, M. Blondel, S. Vaiter and A. Gramfort
+https://arxiv.org/abs/2105.01637
+https://arxiv.org/abs/2002.08943
+
+Bio: Joseph Salmon is a full professor at Université de Montpellier. Prior to joining Université de Montpellier in 2018, he was a visiting assistant professor at University of Washington (2018) and an assistant professor at Télécom ParisTech (2012 - 2018).
+He is specialized in high dimensional statistics, optimization and statistical machine learning. His research interests include convex optimization, sparse regression models and inverse problems from imaging science. Recent contributions include speeding-up standard Lasso solvers and leveraging the noise structure to improve signal estimation. As an associate member with the INRIA Parietal Team, he is also contributing to apply his work to brain imaging challenges.

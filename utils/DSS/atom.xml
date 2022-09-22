@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Data Science Seminars (LSE)</title>
+  <link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self"/>
+  <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
+  <updated>2022-06-13T21:32:00Z</updated>
+  <author>
+    <name>Zoltan Szabo</name>
+    <uri>https://zoltansz.github.io/</uri>
+  </author>
+  <id>https://zoltansz.github.io/utils/0</id>
+
+  <entry>
+      <title>Oct 17: Caroline Uhler, 2pm- (UK time)</title>
+      <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
+      <id>https://zoltansz.github.io/utils/8</id>
+      <updated>2022-03-22T16:10:00Z</updated>
+      <summary>TBA.</summary>
+  </entry>
+
+</feed>
