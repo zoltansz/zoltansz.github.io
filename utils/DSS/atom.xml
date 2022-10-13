@@ -4,18 +4,26 @@
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self"/>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-  <updated>2022-09-29T22:03:00Z</updated>
+  <updated>2022-10-13T12:47:00Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
   </author>
   <id>https://zoltansz.github.io/utils/0</id>
 
+    <entry>
+      <title>Feb. 27, 2023: Erwan Scornet, 2pm- (UK time)</title>
+      <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
+      <id>https://zoltansz.github.io/utils/9</id>
+      <updated>2022-10-13T12:47:00Z</updated>
+      <summary>TBA</summary>
+  </entry>
+
   <entry>
-      <title>Oct 17: Caroline Uhler, 2pm- (UK time)</title>
+      <title>Oct. 17, 2022: Caroline Uhler, 2pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
       <id>https://zoltansz.github.io/utils/8</id>
-      <updated>2022-09-29T22:03:00Z</updated>
+      <updated>2022-10-13T12:47:00Z</updated>
       <summary>From Interventions to Causality using Over-Parameterized Neural Networks.</summary>
   </entry>
 
