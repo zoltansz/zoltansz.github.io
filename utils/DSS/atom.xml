@@ -4,7 +4,7 @@
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self"/>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-  <updated>2022-10-17T21:04:00Z</updated>
+  <updated>2022-10-19T23:14:00Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
@@ -16,6 +16,14 @@
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
       <id>https://zoltansz.github.io/utils/9</id>
       <updated>2022-10-17T21:04:00Z</updated>
+      <summary>TBA</summary>
+  </entry>
+
+  <entry>
+      <title>Nov. 21, 2022: Anastasia Borovykh, 2pm- (UK time)</title>
+      <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
+      <id>https://zoltansz.github.io/utils/10</id>
+      <updated>2022-10-19T23:14:00Z</updated>
       <summary>TBA</summary>
   </entry>
 
