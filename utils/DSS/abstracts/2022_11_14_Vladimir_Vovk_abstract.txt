@@ -1,0 +1,7 @@
+Speaker: Vladimir Vovk (http://www.vovk.net/)
+
+Title: Applications of e-values to multiple hypothesis testing
+
+Abstract: In this talk I will review two alternative tools for statistical hypothesis testing, p-values and e-values. Both have been used in the algorithmic theory of randomness for decades (on the log scale and under other names), but only p-values are widely used in non-Bayesian statistics; e-values are related to Bayes factors, especially in the case of a simple null hypothesis. The advantage of e-values is that they are easy to combine. This makes them a convenient and powerful tool for multiple hypothesis testing.
+
+Bio: Vladimir Vovk is Professor of Computer Science at Royal Holloway, University of London. His research interests include machine learning and the foundations of probability and statistics. In 2001 he and Glenn Shafer published a book ("Probability and Finance: It's Only a Game", Wiley) on new game-theoretic foundations of probability; the sequel ("Game-theoretic Foundations for Probability and Finance", Wiley) appeared in 2019. His second book ("Algorithmic Learning in a Random World", Springer, 2005), co-authored with Alex Gammerman and Glenn Shafer, is the first monograph on conformal prediction, method of machine learning that provides provably valid measures of confidence for their predictions; a second edition is to appear in November 2022.
