@@ -1,0 +1,5 @@
+Speaker: Anastasia Borovykh (https://abrvkh.github.io/)
+
+Title: Towards explainable and privacy-preserving machine learning
+
+Abstract: In the last decade, fueled by drastic increases in computational power and the wide availability of data (i.e. big data), machine learning, and specifically deep neural networks, loosely inspired by neuronal structures in the brain, have been increasingly deployed in the real world. Despite the satisfactory performance achieved in practical applications, these models are generally difficult to analyze and their performance is not always fully understood. This impacts the deployment of neural network models as it directly influences two critical real-world challenges: generalisation - guaranteeing good performance of the model in unseen scenarios and privacy - ensuring the trained model does not give away sensitive information about the datasets it was trained on. In this talk we will first go into more detail on the challenges associated with generalisation and privacy. We will then discuss several recent advancements in defining robust and privacy-preserving machine learning algorithms.
