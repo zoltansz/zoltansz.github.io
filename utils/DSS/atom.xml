@@ -4,7 +4,7 @@
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self"/>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-  <updated>2022-11-10T10:15:00Z</updated>
+  <updated>2022-11-14T20:22:00Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
@@ -42,14 +42,6 @@
       <id>https://zoltansz.github.io/utils/10</id>
       <updated>2022-11-01T11:57:00Z</updated>
       <summary>Towards explainable and privacy-preserving machine learning</summary>
-  </entry>
-
-  <entry>
-      <title>Nov. 14, 2022: Vladimir Vovk, 2pm- (UK time)</title>
-      <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-      <id>https://zoltansz.github.io/utils/11</id>
-      <updated>2022-11-01T22:20:00Z</updated>
-      <summary>Applications of e-values to multiple hypothesis testing</summary>
   </entry>
 
 </feed>
