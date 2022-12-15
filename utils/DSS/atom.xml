@@ -4,7 +4,7 @@
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self"/>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-  <updated>2022-12-08T22:28:00Z</updated>
+  <updated>2022-12-15T00:55:00Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
@@ -14,7 +14,7 @@
    <entry>
       <title>May 15, 2023: Marta Blangiardo, 2pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-      <id>https://zoltansz.github.io/utils/13</id>
+      <id>https://zoltansz.github.io/utils/14</id>
       <updated>2022-11-10T10:15:00Z</updated>
       <summary>TBA</summary>
   </entry>
@@ -40,6 +40,14 @@
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
       <id>https://zoltansz.github.io/utils/9</id>
       <updated>2022-10-17T21:04:00Z</updated>
+      <summary>TBA</summary>
+  </entry>
+
+      <entry>
+      <title>Jan. 30, 2023: David Ginsbourger, 2pm- (UK time)</title>
+      <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
+      <id>https://zoltansz.github.io/utils/15</id>
+      <updated>2022-12-15T00:55:00Z</updated>
       <summary>TBA</summary>
   </entry>
 
