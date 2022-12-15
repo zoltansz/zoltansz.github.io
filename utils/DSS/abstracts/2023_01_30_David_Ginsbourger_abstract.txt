@@ -1,0 +1,9 @@
+Speaker: David Ginsbourger (http://www.ginsbourger.ch/)
+
+Title: On Gaussian Process multiple-fold cross-validation
+
+Abstract: In this talk I will give an overview of some recent results pertaining to the fast calculation of Gaussian Process multiple-fold cross-validation residuals and their covariances, as well as to kernel hyperparameter estimation via related approaches. At first, the focus will be put on results from (arXiv:2101.03108, joint work with Cedric Schärer), where fast Gaussian process leave-one-out formulae are
+generalized to multiple-fold cross-validation. A special focus will be put on the impact of designing the folds on covariance hyperparameter fitting. In particular, I will present results of a joint work with Athénaïs Gautier and Cédric Travelletti on an inverse problem from geosciences where considered formulae and criteria are applied to linear forms in the underlying GP and the way of partitioning observations is found to substantially affect range estimation.
+
+Bio: David Ginsbourger is Professor (Extraordinarius) of Statistical Data Science and co-Director of the Institute of Mathematical Statistics and Actuarial Science at the University of Bern, where he is currently serving as Director of Studies in Statistics and leading the "Uncertainty Quantification and Spatial Statistics" research group. From 2015 to 2020, he mainly worked as a permanent senior
+researcher at Idiap Research Institute. He defended his PhD in Applied Mathematics at the Ecole Nationale Supérieure des Mines de Saint-Etienne in 2009. He is currently on the editorial boards of the SIAM/ASA Journal on Uncertainty Quantification and of Technometrics, as well as chair/metareviewer at ICML 2022, NeurIPS 2022, and AISTATS 2023.
