@@ -1,4 +1,6 @@
-Title: The Power of a Few Local Samples for Predicting Epidemics (https://yalimohammadi.github.io)
+Speaker: Yeganeh Alimohammadi (https://yalimohammadi.github.io)
+
+Title: The Power of a Few Local Samples for Predicting Epidemics
 
 Abstract:
 People's interaction networks play a critical role in epidemics. However, accurately mapping these interactions can be expensive and sometimes impossible, making it difficult to predict the likelihood and outcome of an outbreak. Instead, contact tracing a few samples from the population is enough to estimate an outbreak's likelihood and size. I will present a model-free estimator based on the contact tracing results and give theoretical guarantees on the estimator's accuracy for a large class of networks.
