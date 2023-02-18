@@ -1,0 +1,7 @@
+Title: The Power of a Few Local Samples for Predicting Epidemics (https://yalimohammadi.github.io)
+
+Abstract:
+People's interaction networks play a critical role in epidemics. However, accurately mapping these interactions can be expensive and sometimes impossible, making it difficult to predict the likelihood and outcome of an outbreak. Instead, contact tracing a few samples from the population is enough to estimate an outbreak's likelihood and size. I will present a model-free estimator based on the contact tracing results and give theoretical guarantees on the estimator's accuracy for a large class of networks.
+
+Bio:
+Yeganeh is a Ph.D. student in operations research at Stanford University, where she is advised by Amin Saberi. Her research interests are algorithm design and operations research with an emphasis on applications. In particular, she studies the theoretical grounds of network models of practical importance, mainly focusing on studying epidemics on networks, designing efficient sampling algorithms from large networks, and network optimization.
