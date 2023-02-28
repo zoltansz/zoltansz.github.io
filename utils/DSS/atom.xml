@@ -4,7 +4,7 @@
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self"/>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-  <updated>2023-02-26T12:23:00Z</updated>
+  <updated>2023-02-28T09:12:00Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
@@ -43,12 +43,5 @@
       <summary>TBA</summary>
   </entry>
 
-    <entry>
-      <title>Feb. 27, 2023: Erwan Scornet, 2pm- (UK time)</title>
-      <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-      <id>https://zoltansz.github.io/utils/9</id>
-      <updated>2023-01-02T10:15:00Z</updated>
-      <summary>Is interpolation benign for random forests?</summary>
-  </entry>
 
 </feed>
