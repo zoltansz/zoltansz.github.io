@@ -1,0 +1,10 @@
+Speaker: Patrick Loiseau (https://lig-membres.imag.fr/loiseapa/)
+
+Title: Statistical discrimination in selection and matching
+
+Abstract:
+Discrimination in selection problems such as hiring or college admission is often explained by implicit bias of the decision-maker against a disadvantaged demographic group. In this talk, we argue that discrimination may occur from second-order statistical properties even in the absence of bias. We consider a model where the decision-maker receives a noisy estimate of each candidate's quality, whose variance depends on the demographic group of the candidate---we term this implicit (or differential) variance. We show that regardless of the information that the decision-maker has to make its selection (Bayesian or group-oblivious), differential variance leads to discrimination in the selection. We then study the effect of affirmative action policies on the selection quality and show that, in some cases, it may even increase the selection quality. Finally, we analyze a stable matching problem, where there are two decision-makers selecting from the same pool of candidates. We show that even in the absence of differential variance, a difference across groups in the correlation between the quality estimates of the two decision-makers leads to discrimination.
+
+Bio:
+Patrick Loiseau is a researcher at Inria Saclay, and an adjunct Professor at Ecole Polytechnique and ENSAE (Palaiseau). He is the co-head of the FairPlay team, a joint team between Criteo, ENSEA, Ecole Polytechnique, and Inria. Since 2019, he is also the co-holder of a chair of the MIAI@Grenoble Alpes institute on “Explainable and Responsible AI”. Prior to joining Inria, he was an Assistant Professor of data science at EURECOM and he held long-term visiting positions at UC Berkeley and at the Max-Planck Institute for Software Systems (MPI-SWS) where he was the recipient of a Humboldt fellowship for experienced researchers (2016). He works on game theory and machine learning, with a focus on societal and ethical aspects (fairness and privacy) and on security and privacy.
+
