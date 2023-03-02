@@ -4,12 +4,21 @@
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self"/>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-  <updated>2022-12-28T20:48:00Z</updated>
+  <updated>2023-03-02T12:21:00Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
   </author>
   <id>https://zoltansz.github.io/utils/0</id>
+
+
+  <entry>
+      <title>June 12, 2023: Konstantina Palla, 2pm- (UK time)</title>
+      <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
+      <id>https://zoltansz.github.io/utils/17</id>
+      <updated>2023-03-02T12:21:00Z</updated>
+      <summary>TBA</summary>
+  </entry>
 
      <entry>
       <title>May 22, 2023: Tengyuan Liang, 2pm- (UK time)</title>
@@ -39,7 +48,7 @@
       <title>Mar. 20, 2023: Patrick Loiseau, 2pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
       <id>https://zoltansz.github.io/utils/13</id>
-      <updated>2022-12-28T20:48:00Z</updated>
+      <updated>2023-03-02T12:21:00Z</updated>
       <summary>Statistical discrimination in selection and matching</summary>
   </entry>
 
