@@ -4,53 +4,44 @@
   <title>Data Science Seminars (LSE)</title>
   <link href="https://zoltansz.github.io/utils/DSS/atom.xml" rel="self"/>
   <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-  <updated>2023-03-02T12:21:01Z</updated>
+  <updated>2023-03-20T20:16:05Z</updated>
   <author>
     <name>Zoltan Szabo</name>
     <uri>https://zoltansz.github.io/</uri>
   </author>
-  <id>https://zoltansz.github.io/utils/0</id>
+  <id>https://zoltansz.github.io/utils/5</id>
 
 
   <entry>
       <title>June 12, 2023: Konstantina Palla, 2pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-      <id>https://zoltansz.github.io/utils/17</id>
-      <updated>2023-03-02T12:21:00Z</updated>
+      <id>https://zoltansz.github.io/utils/4</id>
+      <updated>2023-03-20T20:16:04Z</updated>
       <summary>TBA</summary>
   </entry>
 
      <entry>
       <title>May 22, 2023: Tengyuan Liang, 2pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-      <id>https://zoltansz.github.io/utils/15</id>
-      <updated>2023-01-11T18:39:00Z</updated>
+      <id>https://zoltansz.github.io/utils/3</id>
+      <updated>2023-03-20T20:16:03Z</updated>
       <summary>TBA</summary>
   </entry>
 
    <entry>
       <title>May 15, 2023: Marta Blangiardo, 2pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-      <id>https://zoltansz.github.io/utils/14</id>
-      <updated>2022-11-10T10:15:00Z</updated>
+      <id>https://zoltansz.github.io/utils/2</id>
+      <updated>2023-03-20T20:16:02Z</updated>
       <summary>TBA</summary>
   </entry>
 
   <entry>
       <title>Mar. 27, 2023: Yeganeh Alimohammadi, 4pm- (UK time)</title>
       <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-      <id>https://zoltansz.github.io/utils/16</id>
-      <updated>2023-02-18T21:40:00Z</updated>
+      <id>https://zoltansz.github.io/utils/1</id>
+      <updated>2023-03-20T20:16:01Z</updated>
       <summary>The Power of a Few Local Samples for Predicting Epidemics</summary>
   </entry>
-
-   <entry>
-      <title>Mar. 20, 2023: Patrick Loiseau, 2pm- (UK time)</title>
-      <link href="https://zoltansz.github.io/utils/external_seminar_LSE.html"/>
-      <id>https://zoltansz.github.io/utils/13</id>
-      <updated>2023-03-02T12:21:00Z</updated>
-      <summary>Statistical discrimination in selection and matching</summary>
-  </entry>
-
 
 </feed>
