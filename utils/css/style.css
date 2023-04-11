@@ -1,11 +1,11 @@
 body {
   background-color: #e1ddd9;
   font-size: 16px;
-  font-family: Arial, Helvetica, SunSans-Regular, Sans-Serif;
+  font-family: Arial, Helvetica, Sans-Serif;
   /* color:#564b47; */
-  color:#362b27;
-  padding:10px;
-  margin:0px;
+  color: #362b27;
+  padding: 10px;
+  margin: 0px;
   text-align: left;
   line-height: 1.2;
 }
