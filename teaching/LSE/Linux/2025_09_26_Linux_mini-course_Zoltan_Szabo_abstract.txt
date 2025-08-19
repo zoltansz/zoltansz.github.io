@@ -1,0 +1,3 @@
+Title: Getting Started with Linux
+
+Abstract: The now 34-year-old Linux operating system designed from ground up to respect users' freedom provides an easy-to-use, off-the-shelf replacement of proprietary solutions (such as Windows and macOS) while also allowing a versatile, sustainable, secure, and privacy-respecting operation for instance on desktops PCs / laptops, in home automation, on mobiles, on paper-like tablets, or in the context of research computing on a cluster. The aim of this mini-course is to help you get started along this journey. After a short historical background, we will touch upon choosing among Linux variants (so-called distributions), hints on installation, applications for common tasks, and ricing.
